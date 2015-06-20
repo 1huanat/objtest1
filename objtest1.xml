@@ -22,7 +22,7 @@
             </value>
             <next>
               <block type="oled_drawtext" id="92">
-                <field name="TEXT">leftFront</field>
+                <field name="TEXT">leftFront=</field>
                 <next>
                   <block type="oled_drawnumber" id="101" inline="true">
                     <value name="NUMBER">
